@@ -8,6 +8,23 @@ Welcome to the HOROSCOPE website, where you can explore different zodiac signs a
 
 This project is a simple yet interactive website designed to provide information about various zodiac signs. Each zodiac sign has its own dedicated HTML page with customized CSS styling to reflect the characteristics associated with that sign.
 
+
+## 📸 Application Screenshots
+
+### 1. Home Page
+
+<p align="center">
+  <img src="docs/home.png" alt="Horoscope Home Page" width="700"/>
+</p>
+
+<p align="center">
+  <img src="docs/fire.png" alt="fire" width="700"/>
+  <img src="docs/water.png" alt="water" width="700"/>
+  <img src="docs/content.png" alt="content" width="700"/>
+  <img src="docs/form.png" alt="form" width="700"/>
+
+</p>
+
 ## Features
 
 - **Zodiac Sign Pages**: Each zodiac sign (Air, Earth, Fire, Water) has its own HTML page (`AIR.html`, `EARTH.html`, `FIRE.html`, `WATER.html`) with specific content and styling.
